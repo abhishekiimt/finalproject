@@ -6,9 +6,10 @@
   }
   .post {
     width: 500px;
-    margin-bottom: 25px;
-    padding-bottom: 25px;
-    border-bottom: 1px solid black;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid black;
   }
   .post img {
     width: 100%;

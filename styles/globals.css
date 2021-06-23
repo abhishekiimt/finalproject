@@ -20,3 +20,22 @@ a {
   height: 100vh;
   flex-direction: column;
 }
+
+::placeholder {
+  color: #ddd;
+  font-size: 1.2em;
+}
+textarea {
+  width: 90%;
+  margin: 0px auto;
+  height: 40vh;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  color: #fff;
+  border-radius: 10px;
+  outline: none;
+  background-color: #888;
+  font-size: 1em;
+  resize: none;
+}
