@@ -14,7 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
-
+.gap{
+  margin: 4em;
+}
 .page-container {
   display: flex;
   height: 100vh;
